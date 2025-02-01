@@ -1,0 +1,58 @@
+[2025-01-31 17:26:29.911247] |==============================================================================|
+[2025-01-31 17:26:29.911435] |=========                      OpenRAM v1.2.48                       =========|
+[2025-01-31 17:26:29.911494] |=========                                                            =========|
+[2025-01-31 17:26:29.911540] |=========               VLSI Design and Automation Lab               =========|
+[2025-01-31 17:26:29.911581] |=========        Computer Science and Engineering Department         =========|
+[2025-01-31 17:26:29.911625] |=========            University of California Santa Cruz             =========|
+[2025-01-31 17:26:29.911663] |=========                                                            =========|
+[2025-01-31 17:26:29.911701] |=========          Usage help: openram-user-group@ucsc.edu           =========|
+[2025-01-31 17:26:29.911738] |=========        Development help: openram-dev-group@ucsc.edu        =========|
+[2025-01-31 17:26:29.911774] |=========                See LICENSE for license info                =========|
+[2025-01-31 17:26:29.911810] |==============================================================================|
+[2025-01-31 17:26:29.911854] ** Start: 01/31/2025 17:26:29
+[2025-01-31 17:26:29.911896] Technology: scn4m_subm
+[2025-01-31 17:26:29.911939] Total size: 32 bits
+[2025-01-31 17:26:29.911982] Word size: 2
+Words: 16
+Banks: 1
+[2025-01-31 17:26:29.912020] RW ports: 1
+R-only ports: 0
+W-only ports: 0
+[2025-01-31 17:26:29.912058] DRC/LVS/PEX is only run on the top-level design to save run-time (inline_lvsdrc=True to do inline checking).
+[2025-01-31 17:26:29.912093] DRC/LVS/PEX is disabled (check_lvsdrc=True to enable).
+[2025-01-31 17:26:29.912128] Characterization is disabled (using analytical delay models) (analytical_delay=False to simulate).
+[2025-01-31 17:26:29.912167] Words per row: None
+[2025-01-31 17:26:29.912209] Output files are: 
+[2025-01-31 17:26:29.912245] /Users/stanlee/OpenRAM/temp/sram_16x2.lvs
+[2025-01-31 17:26:29.912281] /Users/stanlee/OpenRAM/temp/sram_16x2.sp
+[2025-01-31 17:26:29.912316] /Users/stanlee/OpenRAM/temp/sram_16x2.v
+[2025-01-31 17:26:29.912351] /Users/stanlee/OpenRAM/temp/sram_16x2.lib
+[2025-01-31 17:26:29.912386] /Users/stanlee/OpenRAM/temp/sram_16x2.py
+[2025-01-31 17:26:29.912420] /Users/stanlee/OpenRAM/temp/sram_16x2.html
+[2025-01-31 17:26:29.912455] /Users/stanlee/OpenRAM/temp/sram_16x2.log
+[2025-01-31 17:26:29.912489] /Users/stanlee/OpenRAM/temp/sram_16x2.lef
+[2025-01-31 17:26:29.912524] /Users/stanlee/OpenRAM/temp/sram_16x2.gds
+[2025-01-31 17:26:30.056434] ** Submodules: 0.1 seconds
+[2025-01-31 17:26:30.057335] ** Placement: 0.0 seconds
+[2025-01-31 17:26:35.534615] ** Routing: 5.5 seconds
+[2025-01-31 17:26:35.536335] ** Verification: 0.0 seconds
+[2025-01-31 17:26:35.536395] ** SRAM creation: 5.6 seconds
+[2025-01-31 17:26:35.536495] SP: Writing to /Users/stanlee/OpenRAM/temp/sram_16x2.sp
+[2025-01-31 17:26:35.542538] ** Spice writing: 0.0 seconds
+[2025-01-31 17:26:35.542585] DELAY: Writing stimulus...
+[2025-01-31 17:26:35.563157] ** DELAY: 0.0 seconds
+[2025-01-31 17:26:35.565434] GDS: Writing to /Users/stanlee/OpenRAM/temp/sram_16x2.gds
+[2025-01-31 17:26:35.577900] ** GDS: 0.0 seconds
+[2025-01-31 17:26:35.577991] LEF: Writing to /Users/stanlee/OpenRAM/temp/sram_16x2.lef
+[2025-01-31 17:26:35.579477] ** LEF: 0.0 seconds
+[2025-01-31 17:26:35.579513] LVS: Writing to /Users/stanlee/OpenRAM/temp/sram_16x2.lvs.sp
+[2025-01-31 17:26:35.581977] ** LVS writing: 0.0 seconds
+[2025-01-31 17:26:35.582016] LIB: Characterizing... 
+[2025-01-31 17:26:35.691842] ** Characterization: 0.1 seconds
+[2025-01-31 17:26:35.692093] Config: Writing to /Users/stanlee/OpenRAM/temp/sram_16x2.py
+[2025-01-31 17:26:35.692131] ** Config: 0.0 seconds
+[2025-01-31 17:26:35.695646] Datasheet: Writing to /Users/stanlee/OpenRAM/temp/sram_16x2.html
+[2025-01-31 17:26:35.696276] ** Datasheet: 0.0 seconds
+[2025-01-31 17:26:35.696311] Verilog: Writing to /Users/stanlee/OpenRAM/temp/sram_16x2.v
+[2025-01-31 17:26:35.696447] ** Verilog: 0.0 seconds
+[2025-01-31 17:26:35.696789] ** End: 5.8 seconds
